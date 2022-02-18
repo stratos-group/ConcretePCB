@@ -1,0 +1,14 @@
+Change Component Comment : Designator=R26 Old Comment=Resistance New Comment=
+Change Component Comment : Designator=R27 Old Comment=Resistance New Comment=
+Change Component Comment : Designator=R29 Old Comment=Resistance New Comment=
+Change Component Comment : Designator=R30 Old Comment=Resistance New Comment=
+Added Room: Name=AnalogInputs
+Added Room: Name=Display
+Added Room: Name=main
+Added Room: Name=Main Microcontroller
+Added Room: Name=MAX31856
+Added Room: Name=Memory
+Added Room: Name=PCF8523
+Added Room: Name=Power_Source
+Added Room: Name=RAK3172
+Added Room: Name=RS485

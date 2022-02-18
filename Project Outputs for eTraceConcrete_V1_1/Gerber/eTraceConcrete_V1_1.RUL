@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\IOTICS\Documents\Altium\WorkSpace\STRATOS\eTraceConcrete_V1_1_21_01_2022\eTraceConcrete_V1_1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=SMA1 Old Footprint=SMA New Footprint=5-1814400-1+ant
+Change Component Comment : Designator=SMA1 Old Comment=SMA New Comment=https://www.digikey.com/products/en?keywords=5-1814400-1
+Change component parameters: Designator = "SMA1" ("SMA1"); Footprint = "SMA"; UniqueID = "\KTVVOIVS\SBVFBCOH" ("\KTVVOIVS\SBVFBCOH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1803168.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1803168.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814400&DocType=Customer+Drawing&DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814400&DocType=Customer+Drawing&DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/1803168.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/1803168.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMP - TE CONNECTIVITY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=2,61000, 10=2,50400, 25=2,29560, 50=2,19120, 100=2,08690, 250=1,82604, 500=1,77386, 1000=1,51300, 2500=1,40866 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "16359"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A97593-ND"; VariantName = "[No Variations]"
